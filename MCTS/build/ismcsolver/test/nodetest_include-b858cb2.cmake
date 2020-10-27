@@ -1,0 +1,5 @@
+if(EXISTS "/home/frigoow/Documents/Manil/ManilAI/MCTS/build/ismcsolver/test/nodetest_tests-b858cb2.cmake")
+  include("/home/frigoow/Documents/Manil/ManilAI/MCTS/build/ismcsolver/test/nodetest_tests-b858cb2.cmake")
+else()
+  add_test(nodetest_NOT_BUILT-b858cb2 nodetest_NOT_BUILT-b858cb2)
+endif()

@@ -1,0 +1,1 @@
+/bin/g++-9   -pthread -g   CMakeFiles/example.dir/main.cpp.o CMakeFiles/example.dir/src/manil/card.cpp.o CMakeFiles/example.dir/src/manil/dealer.cpp.o CMakeFiles/example.dir/src/manil/manil.cpp.o CMakeFiles/example.dir/src/manil/player.cpp.o CMakeFiles/example.dir/src/manil/util.cpp.o  -o example 

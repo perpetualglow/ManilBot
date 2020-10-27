@@ -1,0 +1,5 @@
+if(EXISTS "/home/frigoow/Documents/Manil/ManilAI/MCTS/build/ISMCTS/ismcsolver/test/solvertest_tests-b858cb2.cmake")
+  include("/home/frigoow/Documents/Manil/ManilAI/MCTS/build/ISMCTS/ismcsolver/test/solvertest_tests-b858cb2.cmake")
+else()
+  add_test(solvertest_NOT_BUILT-b858cb2 solvertest_NOT_BUILT-b858cb2)
+endif()

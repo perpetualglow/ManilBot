@@ -1,0 +1,1 @@
+/bin/g++-9  -g   CMakeFiles/nodetest.dir/nodetest.cpp.o CMakeFiles/nodetest.dir/common/knockoutwhist.cpp.o CMakeFiles/nodetest.dir/common/mnkgame.cpp.o CMakeFiles/nodetest.dir/common/phantommnkgame.cpp.o CMakeFiles/nodetest.dir/common/goofspiel.cpp.o CMakeFiles/testmain.dir/main.cpp.o  -o nodetest  -lpthread 

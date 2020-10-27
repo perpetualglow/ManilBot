@@ -1,0 +1,1 @@
+/bin/g++-9  -g   CMakeFiles/policytest.dir/policytest.cpp.o CMakeFiles/testmain.dir/main.cpp.o  -o policytest  -lpthread 

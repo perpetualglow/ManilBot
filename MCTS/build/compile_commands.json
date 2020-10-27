@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/frigoow/Documents/Manil/ManilAI/MCTS/build",
+  "command": "/bin/g++-9   -I/home/frigoow/Documents/Manil/ManilAI/MCTS/include -I/home/frigoow/Documents/Manil/ManilAI/MCTS/include/tree -I/home/frigoow/Documents/Manil/ManilAI/MCTS/src/manil   -pthread -g   -pthread -o CMakeFiles/example.dir/main.cpp.o -c /home/frigoow/Documents/Manil/ManilAI/MCTS/main.cpp",
+  "file": "/home/frigoow/Documents/Manil/ManilAI/MCTS/main.cpp"
+},
+{
+  "directory": "/home/frigoow/Documents/Manil/ManilAI/MCTS/build",
+  "command": "/bin/g++-9   -I/home/frigoow/Documents/Manil/ManilAI/MCTS/include -I/home/frigoow/Documents/Manil/ManilAI/MCTS/include/tree -I/home/frigoow/Documents/Manil/ManilAI/MCTS/src/manil   -pthread -g   -pthread -o CMakeFiles/example.dir/src/manil/card.cpp.o -c /home/frigoow/Documents/Manil/ManilAI/MCTS/src/manil/card.cpp",
+  "file": "/home/frigoow/Documents/Manil/ManilAI/MCTS/src/manil/card.cpp"
+},
+{
+  "directory": "/home/frigoow/Documents/Manil/ManilAI/MCTS/build",
+  "command": "/bin/g++-9   -I/home/frigoow/Documents/Manil/ManilAI/MCTS/include -I/home/frigoow/Documents/Manil/ManilAI/MCTS/include/tree -I/home/frigoow/Documents/Manil/ManilAI/MCTS/src/manil   -pthread -g   -pthread -o CMakeFiles/example.dir/src/manil/dealer.cpp.o -c /home/frigoow/Documents/Manil/ManilAI/MCTS/src/manil/dealer.cpp",
+  "file": "/home/frigoow/Documents/Manil/ManilAI/MCTS/src/manil/dealer.cpp"
+},
+{
+  "directory": "/home/frigoow/Documents/Manil/ManilAI/MCTS/build",
+  "command": "/bin/g++-9   -I/home/frigoow/Documents/Manil/ManilAI/MCTS/include -I/home/frigoow/Documents/Manil/ManilAI/MCTS/include/tree -I/home/frigoow/Documents/Manil/ManilAI/MCTS/src/manil   -pthread -g   -pthread -o CMakeFiles/example.dir/src/manil/manil.cpp.o -c /home/frigoow/Documents/Manil/ManilAI/MCTS/src/manil/manil.cpp",
+  "file": "/home/frigoow/Documents/Manil/ManilAI/MCTS/src/manil/manil.cpp"
+},
+{
+  "directory": "/home/frigoow/Documents/Manil/ManilAI/MCTS/build",
+  "command": "/bin/g++-9   -I/home/frigoow/Documents/Manil/ManilAI/MCTS/include -I/home/frigoow/Documents/Manil/ManilAI/MCTS/include/tree -I/home/frigoow/Documents/Manil/ManilAI/MCTS/src/manil   -pthread -g   -pthread -o CMakeFiles/example.dir/src/manil/player.cpp.o -c /home/frigoow/Documents/Manil/ManilAI/MCTS/src/manil/player.cpp",
+  "file": "/home/frigoow/Documents/Manil/ManilAI/MCTS/src/manil/player.cpp"
+},
+{
+  "directory": "/home/frigoow/Documents/Manil/ManilAI/MCTS/build",
+  "command": "/bin/g++-9   -I/home/frigoow/Documents/Manil/ManilAI/MCTS/include -I/home/frigoow/Documents/Manil/ManilAI/MCTS/include/tree -I/home/frigoow/Documents/Manil/ManilAI/MCTS/src/manil   -pthread -g   -pthread -o CMakeFiles/example.dir/src/manil/util.cpp.o -c /home/frigoow/Documents/Manil/ManilAI/MCTS/src/manil/util.cpp",
+  "file": "/home/frigoow/Documents/Manil/ManilAI/MCTS/src/manil/util.cpp"
+}
+]

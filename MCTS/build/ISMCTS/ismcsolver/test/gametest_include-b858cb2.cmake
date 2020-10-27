@@ -1,0 +1,5 @@
+if(EXISTS "/home/frigoow/Documents/Manil/ManilAI/MCTS/build/ISMCTS/ismcsolver/test/gametest_tests-b858cb2.cmake")
+  include("/home/frigoow/Documents/Manil/ManilAI/MCTS/build/ISMCTS/ismcsolver/test/gametest_tests-b858cb2.cmake")
+else()
+  add_test(gametest_NOT_BUILT-b858cb2 gametest_NOT_BUILT-b858cb2)
+endif()
