@@ -1,2 +1,2 @@
 # ManilBot
-AI algorithms for the card game Manille
+AI algorithms for the card game Manille.
